@@ -11,8 +11,18 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ## 🎬 Let Code
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVraHE0eDg2b3Nva2F0NGNqbzc3NGNpamZucmdmdTRncHBxZ3R5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width:100%;" alt="Coding Animation" />
 
+<table>
+  <tr>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVraHE0eDg2b3Nva2F0NGNqbzc3NGNpamZucmdmdTRncHBxZ3R5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width:100%;" alt="Coding Animation" />
+    </td>
+    <td>
+      <!-- Add your text here -->
+      <p>Here is some additional text to go alongside the GIF.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📬 Get in Touch
