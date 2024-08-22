@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ## 🎬 Let Code
 
-![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVraHE0eDg2b3Nva2F0NGNqbzc3NGNpamZucmdmdTRncHBxZ3R5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif) <!-- Add your own coding animation GIF URL here -->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVraHE0eDg2b3Nva2F0NGNqbzc3NGNpamZucmdmdTRncHBxZ3R5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="width:100%;" alt="Coding Animation" />
 
 ---
 
