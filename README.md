@@ -1,4 +1,4 @@
-display hydottech.com in the readme ## Hi there 👋
+## Hi there 👋
 
 # 🌟 Welcome to My Developer Space 🌟
 
