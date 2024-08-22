@@ -2,6 +2,33 @@
 
 # 🌟 Welcome to My Developer Space 🌟
 
+<p class="typing">Welcome! I am a <span class="typing-text">Software Engineer</span></p>
+
+<style>
+  .typing {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  .typing-text {
+    border-right: 2px solid black;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: monospace;
+    animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 20em; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+</style>
+
 Welcome to my GitHub profile! I'm passionate about technology, programming, and creating awesome projects. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!
 
 ---
