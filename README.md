@@ -79,3 +79,17 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
+### 🚀 My Recent Projects
+
+## Hydot Commerce System
+<a href="https://web.commerce.hydottech.com/" target="_blank">
+  <img src="https://mainapi.hydottech.com/storage/SN3giQXsccOwGy5RbmFleXcrzpdYjNGgZ5ZwVVMi.png" alt="Hydot Commerce System" style="width: 100%; max-width: 600px; height: auto; border-radius: 10px;" />
+</a>
+<p>
+  **Hydot Commerce System**  
+  A complete payment-enabled e-commerce system.
+</p>
+<p>
+  <a href="https://web.commerce.hydottech.com/" target="_blank" style="color: #1f6feb; font-weight: bold;">🔗 View Project</a>
+</p>
+
