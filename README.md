@@ -13,6 +13,18 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me!
 
+<p>
+  <a href="https://wa.me/233599626272">
+    <img src="https://img.shields.io/badge/Phone-%2B233%20599626272-brightgreen" alt="Phone" />
+  </a>
+  <a href="mailto:solomondanso2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%20solomondanso2023@gmail.com-red" alt="Email" />
+  </a>
+  <a href="https://hydottech.com">
+    <img src="https://img.shields.io/badge/Website-hydottech.com-blue" alt="Website" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ My Favorite Tools
