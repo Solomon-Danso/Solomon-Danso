@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Developer Space 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+-+Developer;Backend+-+Developer;FullStack+-+Developer;Mobile+-+App+-+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Backend+Developer;FullStack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and creating awesome projects. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!
