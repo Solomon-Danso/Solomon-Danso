@@ -94,7 +94,7 @@ A complete payment-enabled e-commerce system.
 
 ## 🏆 GitHub Activity
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Solomon-Danso&theme=react-dark)](https://github.com/solomondanso2023)
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Solomon-Danso&theme=react-dark)](https://github.com/Solomon-Danso)
 
 ---
 
