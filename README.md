@@ -16,10 +16,10 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 <p>
   <a href="https://wa.me/233599626272">
     <img src="https://img.shields.io/badge/Phone-%2B233%20599626272-brightgreen" alt="Phone" />
-  </a>
+  </a><br/>
   <a href="mailto:solomondanso2023@gmail.com">
     <img src="https://img.shields.io/badge/Email-%20solomondanso2023@gmail.com-red" alt="Email" />
-  </a>
+  </a><br/>
   <a href="https://hydottech.com">
     <img src="https://img.shields.io/badge/Website-hydottech.com-blue" alt="Website" />
   </a>
