@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ---
 
+## 🎬 Let Code
+
+![Coding Animation](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif) <!-- Add your own coding animation GIF URL here -->
+
+---
+
 ## 📬 Get in Touch
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me!
