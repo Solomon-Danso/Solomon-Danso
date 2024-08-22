@@ -15,7 +15,7 @@
     </td>
     <td>
       <!-- Add your text here -->
-      <p>Welcome to my GitHub profile! I'm passionate about technology, programming, and creating awesome projects. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!
+      <p> I Love providing solutions to business through technology. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!
 </p>
     </td>
   </tr>
