@@ -103,13 +103,9 @@ A complete payment-enabled e-commerce system.
 
 
 
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical)
-
 ## 🏆 GitHub Activity
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Solomon-Danso&theme=react-dark)](https://github.com/Solomon-Danso)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical)
 
 ---
 
