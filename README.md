@@ -4,22 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Backend+Developer;FullStack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
 
-
-
-
-
 <table>
   <tr>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2bm1scHozaTJkMnY3eTIwbjd6bXNvd2lrMjlsMTFrNTMwazU1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%;" alt="Coding Animation" />
     </td>
     <td>
-      <!-- Add your text here -->
-      <p>Welcome to my GitHub profile! I'm passionate about technology, programming, and creating awesome projects. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!
-</p>
+      <p>Welcome to my GitHub profile! I'm passionate about technology, programming, and creating awesome projects. Here’s a glimpse of my favorite tools, languages, and frameworks that I love working with!</p>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📬 Get in Touch
@@ -58,7 +53,6 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-
 ### 🧰 Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
@@ -71,7 +65,6 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/WebRTC-4A7B8C?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
 </p>
-
 
 ### 🗄️ Databases and Cloud Hosting
 <p>
@@ -92,38 +85,41 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Lucidchart-FFB800?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart" />
 </p>
-
-## 🚀 My Recent Projects
-
-### Hydot Commerce System
-
-![Hydot Commerce System](https://mainapi.hydottech.com/storage/SN3giQXsccOwGy5RbmFleXcrzpdYjNGgZ5ZwVVMi.png)
-
-**Hydot Commerce System**  
-A complete payment-enabled e-commerce system.
-
-🔗 [View Project](https://web.commerce.hydottech.com/)
-
-
-
-
-## 🏆 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical)
 
 ---
 
+## 🎨 UI/UX and Design
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-26C0C5?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch" />
+</p>
 
+---
 
+## 📝 My Blog Posts
 
+Feel free to check out my blog posts and tutorials on [Medium](https://medium.com/@solomondanso2023).
 
+---
 
+## 🔗 My GitHub Projects
+
+- [**DCIT 318: Programming II**](https://github.com/solomondanso2023/dcit318-programming-ii) - Grade Calculator, Ticket Price Calculator, and Triangle Type Identifier
+- [**Pharmacy Management System**](https://github.com/solomondanso2023/pharmacy-management-system) - A Java Swing application with features like search, sort, and database management
+- [**Human-Computer Interaction Report**](https://github.com/solomondanso2023/hci-report) - Key principles of HCI and their relation to user psychology
+
+---
+
+## 📈 GitHub Stats
+
+![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solomondanso2023&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=tokyonight)
+
+---
+
+Thank you for visiting my profile! 🚀
