@@ -84,3 +84,22 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 A complete payment-enabled e-commerce system.
 
 🔗 [View Project](https://web.commerce.hydottech.com/)
+
+
+
+
+## 📈 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solomondanso2023&show_icons=true&theme=radical)
+
+## 🏆 GitHub Activity
+
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=solomondanso2023&theme=react-dark)](https://github.com/solomondanso2023)
+
+---
+
+
+
+
+
+
