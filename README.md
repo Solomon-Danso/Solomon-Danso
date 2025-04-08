@@ -132,17 +132,10 @@ A complete payment-enabled e-commerce system.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solomon-Danso&theme=react-dark&area=true)
 
 <!-- Total Repos -->
-![Public Repos](https://img.shields.io/badge/Public%20Repos-💻%20{{replace_with_number}}-blueviolet)
-
-<!-- Star Counter -->
+![Public Repos](https://img.shields.io/badge/Public%20Repos-💻%20115-blueviolet)
 ![GitHub Stars](https://img.shields.io/github/stars/Solomon-Danso?style=social)
 
-<!-- Fork Counter -->
-![GitHub Forks](https://img.shields.io/github/forks/Solomon-Danso?style=social)
-
-<!-- Code Time Badge (Wakatime) -->
-<!-- Replace your_username with Wakatime username if you use it -->
-<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=radical)](https://wakatime.com/@your_username) -->
+<!-- Star Counter -->
 
 <!-- Custom Badges -->
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20code-1.5M%2B-blueviolet)
