@@ -131,12 +131,6 @@ A complete payment-enabled e-commerce system.
 <!-- Contribution Graph -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solomon-Danso&theme=react-dark&area=true)
 
-<!-- GitHub Metrics -->
-<img src="https://metrics.lecoq.io/Solomon-Danso?template=classic&config.timezone=Africa%2FAccra" width="100%">
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Solomon-Danso&color=ff69b4&style=flat)
-
 <!-- Total Repos -->
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-💻%20{{replace_with_number}}-blueviolet)
 
