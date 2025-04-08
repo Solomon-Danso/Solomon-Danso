@@ -118,7 +118,7 @@ A complete payment-enabled e-commerce system.
 
 ## 🏆 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
