@@ -120,6 +120,10 @@ A complete payment-enabled e-commerce system.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Solomon-Danso&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-Danso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 
