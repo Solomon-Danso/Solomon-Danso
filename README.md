@@ -116,13 +116,48 @@ A complete payment-enabled e-commerce system.
 
 
 
-## 🏆 GitHub Activity
 
+## 🏆 GitHub Activity & Stats
+
+<!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon-Danso&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+<!-- GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Solomon-Danso&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-Danso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solomon-Danso&theme=react-dark&area=true)
+
+<!-- GitHub Metrics -->
+<img src="https://metrics.lecoq.io/Solomon-Danso?template=classic&config.timezone=Africa%2FAccra" width="100%">
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Solomon-Danso&color=ff69b4&style=flat)
+
+<!-- Total Repos -->
+![Public Repos](https://img.shields.io/badge/Public%20Repos-💻%20{{replace_with_number}}-blueviolet)
+
+<!-- Star Counter -->
+![GitHub Stars](https://img.shields.io/github/stars/Solomon-Danso?style=social)
+
+<!-- Fork Counter -->
+![GitHub Forks](https://img.shields.io/github/forks/Solomon-Danso?style=social)
+
+<!-- Code Time Badge (Wakatime) -->
+<!-- Replace your_username with Wakatime username if you use it -->
+<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&theme=radical)](https://wakatime.com/@your_username) -->
+
+<!-- Custom Badges -->
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20code-1.5M%2B-blueviolet)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Solomon-Danso)
+![Repo Count](https://badges.pufler.dev/repos/Solomon-Danso)
+
+<!-- Achievements (Optional) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Solomon-Danso&theme=radical&margin-w=15&no-frame=true" />
+
 
 ---
 
