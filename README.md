@@ -132,7 +132,7 @@ A complete payment-enabled e-commerce system.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solomon-Danso&theme=react-dark&area=true)
 
 <!-- Total Repos -->
-![Public Repos](https://img.shields.io/badge/Public%20Repos-💻%20115-blueviolet)
+![Total Repos](https://img.shields.io/badge/Public%20Repos-💻%20117-blueviolet)
 ![GitHub Stars](https://img.shields.io/github/stars/Solomon-Danso?style=social)
 
 <!-- Star Counter -->
@@ -140,7 +140,7 @@ A complete payment-enabled e-commerce system.
 <!-- Custom Badges -->
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20code-1.5M%2B-blueviolet)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Solomon-Danso)
-![Repo Count](https://badges.pufler.dev/repos/Solomon-Danso)
+![Public Repos](https://badges.pufler.dev/repos/Solomon-Danso)
 
 <!-- Achievements (Optional) -->
 <img src="https://github-profile-trophy.vercel.app/?username=Solomon-Danso&theme=radical&margin-w=15&no-frame=true" />
