@@ -36,8 +36,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solomon-Danso&theme=react-dark&bg_color=000000&color=FF0066&line=FF0066&point=FFFFFF&area=true&area_color=FF0066)
 
-    </td>
-    <td width="40%">
+ 
       
 ### 🏆 GitHub Trophies
 
@@ -53,7 +52,7 @@
 
 ![Years](https://badges.pufler.dev/years/Solomon-Danso?color=FF0066&logo=github&style=for-the-badge)
 
-    </td>
+
   </tr>
 </table>
 
